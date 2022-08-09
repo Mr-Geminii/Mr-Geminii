@@ -1,0 +1,12 @@
+#Beginning and definition
+print('Welcome to the birth account(:')
+name =input('What is your name:')
+birth =input('your age:')
+
+#knowledge of birth
+
+age = 2022 - int(birth)
+
+print('your birth',age)
+
+print('bye',name)
